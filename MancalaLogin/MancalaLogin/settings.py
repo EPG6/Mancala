@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-%dzg)8ki)_2if+vhp+m0g+ruvht2-4+ty72bu6bw=wmcj3waus'
+SECRET_KEY = '****'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -85,7 +85,7 @@ DATABASES = {
                 'ENGINE': 'django.db.backends.postgresql',
                 'NAME': 'MancalaDB',
                 'USER': 'DBManager',
-                'PASSWORD': 'w!lv59.NcslDiTr',
+                'PASSWORD': '******',
                 }
 }
 
