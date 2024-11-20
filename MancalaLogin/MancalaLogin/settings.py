@@ -28,8 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = ['mysite.com', 'localhost', '127.0.0.1']
 
 
-SOCIAL_AUTH_FACEBOOK_KEY = '1614748045967267' # Facebook App ID
-SOCIAL_AUTH_FACEBOOK_SECRET = '84263292b94ce095392e552475318f43' # Facebook App Secret
+SOCIAL_AUTH_FACEBOOK_KEY = '***' # Facebook App ID
+SOCIAL_AUTH_FACEBOOK_SECRET = '*****' # Facebook App Secret
 
 # Application definition
 
